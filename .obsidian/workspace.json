@@ -1,0 +1,180 @@
+{
+  "main": {
+    "id": "0b751ea8d117427a",
+    "type": "split",
+    "children": [
+      {
+        "id": "969cf94b0103ae56",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "067fdf5d16f51e2a",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0a06bfb2bd8f8453",
+    "type": "split",
+    "children": [
+      {
+        "id": "eef4f6f52e7b0cb5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b126fc0cb8cffb90",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f331ad1c6a3397cf",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "journal",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e973fa742b36bc54",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "150fe2358543b236",
+    "type": "split",
+    "children": [
+      {
+        "id": "092a2cdcc0b77190",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8c85e8f9ed2950c7",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e9d8d2975d5e2668",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "339a480b3a6e68fd",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "ea1058d72b157b73",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "zk-prefixer:Create new unique note": false
+    }
+  },
+  "active": "b126fc0cb8cffb90",
+  "lastOpenFiles": [
+    "Bullet Journal/2023-05-17.md",
+    "Inbox/202305172131.md",
+    "Templates/New Daily Note.md",
+    "Templates/New Literature Note.md",
+    "Templates/New Fleeting Note.md",
+    "Inbox/empty.md",
+    "Inbox/202305172129.md",
+    "README.md",
+    "Templates/New Media Consumption.md",
+    "LICENSE",
+    "Archive/empty.md",
+    "Attachments/empty.md",
+    "Templates/New Permanent Note.md",
+    "Inbox/Untitled.md",
+    "Inbox/202305172108.md",
+    "Second Brain/Media Consumption/empty.md",
+    "Second Brain/Media Consumption",
+    "Second Brain/Slip box/empty.md",
+    "Second Brain/Map of Content/empty.md",
+    "Bullet Journal/empty.md",
+    "Inbox/123456789.md",
+    "Inbox/1234567891.md",
+    "Journal/2023-05-15.md",
+    "Archive",
+    "Second Brain/Slip box",
+    "Second Brain/Map of Content",
+    "Bullet Journal",
+    "Inbox/202305141148 some things.md",
+    "Inbox/202305141147 stuff.md",
+    "fleeting 2023-05-14.md",
+    "Untitled 1.md",
+    "Templates",
+    "Second Brain",
+    "Inbox",
+    "Attachments"
+  ]
+}
